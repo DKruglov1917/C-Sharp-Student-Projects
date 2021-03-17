@@ -1,0 +1,39 @@
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\bin\Debug\Projekt3_Kruhlov_48720.exe.config
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\bin\Debug\Projekt3_Kruhlov_48720.exe
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\bin\Debug\Projekt3_Kruhlov_48720.pdb
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\obj\Debug\Projekt3_Kruhlov_48720.Kruhlov_48720.resources
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\obj\Debug\Projekt3_Kruhlov_48720.Properties.Resources.resources
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\obj\Debug\Projekt3_Kruhlov_48720.csproj.GenerateResource.cache
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\obj\Debug\Projekt3_Kruhlov_48720.csproj.CoreCompileInputs.cache
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\obj\Debug\Projekt3_Kruhlov_48720.exe
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Fedyk48689\obj\Debug\Projekt3_Kruhlov_48720.pdb
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.exe.config
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.exe
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.pdb
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csprojAssemblyReference.cache
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.Kruhlov_48720.resources
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.Properties.Resources.resources
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csproj.GenerateResource.cache
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csproj.CoreCompileInputs.cache
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.exe
+C:\Users\constant waiting\Downloads\Новая папка (17)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.pdb
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.exe.config
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.exe
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.pdb
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.Kruhlov_48720.resources
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.exe
+C:\Users\Дмитрий\Desktop\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.pdb
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.exe.config
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.exe
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\bin\Debug\Projekt3_Kruhlov_48720.pdb
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.Kruhlov_48720.resources
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.exe
+C:\Users\Дмитрий\Desktop\Новая папка (3)\Projekt3_Kruhlov_48720\obj\Debug\Projekt3_Kruhlov_48720.pdb

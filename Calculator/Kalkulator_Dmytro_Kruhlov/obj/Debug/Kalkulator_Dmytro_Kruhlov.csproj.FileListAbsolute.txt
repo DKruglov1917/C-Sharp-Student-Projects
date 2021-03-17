@@ -1,0 +1,14 @@
+D:\Vistula\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\bin\Debug\Kalkulator_Dmytro_Kruhlov.exe.config
+D:\Vistula\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\bin\Debug\Kalkulator_Dmytro_Kruhlov.exe
+D:\Vistula\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\bin\Debug\Kalkulator_Dmytro_Kruhlov.pdb
+D:\Vistula\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\obj\Debug\Kalkulator_Dmytro_Kruhlov.csprojAssemblyReference.cache
+D:\Vistula\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\obj\Debug\Kalkulator_Dmytro_Kruhlov.csproj.CoreCompileInputs.cache
+D:\Vistula\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\obj\Debug\Kalkulator_Dmytro_Kruhlov.exe
+D:\Vistula\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\obj\Debug\Kalkulator_Dmytro_Kruhlov.pdb
+C:\Users\lenovo\Desktop\Новая папка\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\bin\Debug\Kalkulator_Dmytro_Kruhlov.exe.config
+C:\Users\lenovo\Desktop\Новая папка\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\bin\Debug\Kalkulator_Dmytro_Kruhlov.exe
+C:\Users\lenovo\Desktop\Новая папка\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\bin\Debug\Kalkulator_Dmytro_Kruhlov.pdb
+C:\Users\lenovo\Desktop\Новая папка\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\obj\Debug\Kalkulator_Dmytro_Kruhlov.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Новая папка\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\obj\Debug\Kalkulator_Dmytro_Kruhlov.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Новая папка\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\obj\Debug\Kalkulator_Dmytro_Kruhlov.exe
+C:\Users\lenovo\Desktop\Новая папка\D_Kruhlov\Kalkulator_Dmytro_Kruhlov\Kalkulator_Dmytro_Kruhlov\obj\Debug\Kalkulator_Dmytro_Kruhlov.pdb
