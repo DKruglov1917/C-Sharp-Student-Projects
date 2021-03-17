@@ -1,0 +1,20 @@
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.csprojAssemblyReference.cache
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.dk_Form.resources
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.Properties.Resources.resources
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.csproj.GenerateResource.cache
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.csproj.CoreCompileInputs.cache
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\bin\Debug\ProjektNr2_Kruhlov48720.exe.config
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\bin\Debug\ProjektNr2_Kruhlov48720.exe
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\bin\Debug\ProjektNr2_Kruhlov48720.pdb
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.exe
+C:\Users\Bapiop\Desktop\Vistula\Algorytmy\Project2\Kruglov\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.pdb
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\bin\Debug\ProjektNr2_Kruhlov48720.exe.config
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\bin\Debug\ProjektNr2_Kruhlov48720.exe
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\bin\Debug\ProjektNr2_Kruhlov48720.pdb
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.dk_Form.resources
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.exe
+C:\Users\lenovo\Desktop\Новая папка\ProjektNr2_Kruhlov48720\ProjektNr2_Kruhlov48720\obj\Debug\ProjektNr2_Kruhlov48720.pdb

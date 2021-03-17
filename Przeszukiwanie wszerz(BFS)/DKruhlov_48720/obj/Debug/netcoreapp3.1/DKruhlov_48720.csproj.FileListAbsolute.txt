@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\obj\Debug\netcoreapp3.1\DKruhlov_48720.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\obj\Debug\netcoreapp3.1\DKruhlov_48720.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\obj\Debug\netcoreapp3.1\DKruhlov_48720.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\obj\Debug\netcoreapp3.1\DKruhlov_48720.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\bin\Debug\netcoreapp3.1\DKruhlov_48720.exe
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\bin\Debug\netcoreapp3.1\DKruhlov_48720.deps.json
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\bin\Debug\netcoreapp3.1\DKruhlov_48720.runtimeconfig.json
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\bin\Debug\netcoreapp3.1\DKruhlov_48720.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\bin\Debug\netcoreapp3.1\DKruhlov_48720.dll
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\bin\Debug\netcoreapp3.1\DKruhlov_48720.pdb
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\obj\Debug\netcoreapp3.1\DKruhlov_48720.dll
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\obj\Debug\netcoreapp3.1\DKruhlov_48720.pdb
+C:\Users\lenovo\Desktop\DKruhlov_48720\DKruhlov_48720\obj\Debug\netcoreapp3.1\DKruhlov_48720.genruntimeconfig.cache
